@@ -12,6 +12,7 @@ This repository contains the source code for a map of the hometowns of anyone wh
 7. Refresh the map!
 
 ## Technologies used in this project
+I'm Aishwarya
 
 ### NodeJS
 
